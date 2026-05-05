@@ -6,6 +6,8 @@ A Retrieval-Augmented Generation (RAG) system that answers questions about footb
 
 ## Architecture
 
+![System Architecture](System%20architecture.png)
+
 ### Stage 1 — Data Pipeline *(runs once, offline)*
 
 ```
