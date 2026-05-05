@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Generated index and data (rebuilt by running the scripts)
+wiki_rag/
+dataset/
+wiki_data_filtered/
+wiki_data/
+nodes.pkl
+
+# Logs and temp files
+streamlit_log.txt
+failed_pages.txt
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints
+.checkpoint.pkl
